@@ -1,0 +1,4 @@
+baseURL = 'http://TAIMA.github.io/'
+languageCode = 'en-us'
+title = 'The Adventures in the Modern Animal Kingdom'
+theme = 'ananke'
