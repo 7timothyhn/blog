@@ -1,4 +1,22 @@
-baseURL = 'http://TAIMA.github.io/'
-languageCode = 'en-us'
-title = 'The Adventures in the Modern Animal Kingdom'
-theme = 'ananke'
+baseURL = 'http://TAIMA.github.io/' ## the main derectory that the website will be published
+languageCode = 'en-us' ## set the language to us english
+title = 'The Adventures in the Modern Animal Kingdom' ## the main title of the page
+theme = 'ananke' ## sets the theme
+
+Paginate = 5
+
+[params]
+  commentoEnable = true 
+  
+  author = "Timothy Nicholas"
+  favicon = ""
+  site_logo = ""
+
+
+[languages]
+  [languages.en]
+    title = "TAIMA" ## sets the top right title in the tabs
+    contentDir = "content/en" ## sets the main sourse of information 
+   
+
+
