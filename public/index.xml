@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Adventures in the Modern Animal Kingdom</title>
+    <title>Adventures in the Animal Kingdom on TAIMA</title>
     <link>http://TAIMA.github.io/</link>
-    <description>Recent content on The Adventures in the Modern Animal Kingdom</description>
+    <description>Recent content in Adventures in the Animal Kingdom on TAIMA</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Tue, 06 Jun 2023 01:03:50 -0500</lastBuildDate><atom:link href="http://TAIMA.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Private the guard dog </title>
-      <link>http://TAIMA.github.io/posts/private-the-guard-dog/</link>
-      <pubDate>Tue, 06 Jun 2023 01:03:50 -0500</pubDate>
-      
-      <guid>http://TAIMA.github.io/posts/private-the-guard-dog/</guid>
-      <description>&amp;ldquo;Ah, it is not easy being the best guard dog in town, but I will give you pointers on what it takes to be the best.&amp;rdquo;</description>
-    </item>
-    
     <item>
       <title>Rambo the adventurer</title>
       <link>http://TAIMA.github.io/posts/rambo-the-adventurer/</link>
@@ -23,6 +14,15 @@
       
       <guid>http://TAIMA.github.io/posts/rambo-the-adventurer/</guid>
       <description>&amp;ldquo;On today&amp;rsquo;s adventure I will finally catch the illusive noise machine. Humans call it cars.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Story 1: Private the guard dog</title>
+      <link>http://TAIMA.github.io/posts/private-the-guard-dog/</link>
+      <pubDate>Tue, 06 Jun 2023 01:03:50 -0500</pubDate>
+      
+      <guid>http://TAIMA.github.io/posts/private-the-guard-dog/</guid>
+      <description>&amp;ldquo;Ah, it is not easy being the best guard dog in town, but I will give you pointers on what it takes to be the best.&amp;rdquo;</description>
     </item>
     
     <item>
@@ -41,6 +41,25 @@
       
       <guid>http://TAIMA.github.io/posts/the-last-dodo-bird/</guid>
       <description>&amp;ldquo;The final flock, the last set of dodos on earth. Dodo 1, dodo 2, dodo 3, and dodo 4. Will any of them make it past the ice age?&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://TAIMA.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://TAIMA.github.io/about/</guid>
+      <description>a way to display an image and to give the image a title What is this blog site about? this is where the content goes This site is base on what might go through animals heads when doing random activities. It can be something humours or mondain. Most of all the site is about lighthearted fun. So, I hope you enjoy reading the various stories on my site, and if you want to add your own pet&amp;rsquo;s story you can contact us using with the information in the contact page.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://TAIMA.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://TAIMA.github.io/contact/</guid>
+      <description>We would love to hear your ideas or interesting stories from you about your pets going around their animal kingdom.
+allows a form to be generated using the formspree to generate and handle the form inforamation Your Name Email Address An email address is required. Message </description>
     </item>
     
   </channel>

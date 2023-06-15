@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on The Adventures in the Modern Animal Kingdom</title>
+    <title>Stories on TAIMA</title>
     <link>http://TAIMA.github.io/posts/</link>
-    <description>Recent content in Posts on The Adventures in the Modern Animal Kingdom</description>
+    <description>Recent content in Stories on TAIMA</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Tue, 06 Jun 2023 01:03:50 -0500</lastBuildDate><atom:link href="http://TAIMA.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Private the guard dog </title>
-      <link>http://TAIMA.github.io/posts/private-the-guard-dog/</link>
-      <pubDate>Tue, 06 Jun 2023 01:03:50 -0500</pubDate>
-      
-      <guid>http://TAIMA.github.io/posts/private-the-guard-dog/</guid>
-      <description>&amp;ldquo;Ah, it is not easy being the best guard dog in town, but I will give you pointers on what it takes to be the best.&amp;rdquo;</description>
-    </item>
-    
     <item>
       <title>Rambo the adventurer</title>
       <link>http://TAIMA.github.io/posts/rambo-the-adventurer/</link>
@@ -23,6 +14,15 @@
       
       <guid>http://TAIMA.github.io/posts/rambo-the-adventurer/</guid>
       <description>&amp;ldquo;On today&amp;rsquo;s adventure I will finally catch the illusive noise machine. Humans call it cars.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Story 1: Private the guard dog</title>
+      <link>http://TAIMA.github.io/posts/private-the-guard-dog/</link>
+      <pubDate>Tue, 06 Jun 2023 01:03:50 -0500</pubDate>
+      
+      <guid>http://TAIMA.github.io/posts/private-the-guard-dog/</guid>
+      <description>&amp;ldquo;Ah, it is not easy being the best guard dog in town, but I will give you pointers on what it takes to be the best.&amp;rdquo;</description>
     </item>
     
     <item>
