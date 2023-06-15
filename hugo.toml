@@ -1,4 +1,4 @@
-baseURL = 'http://TAIMA.github.io/' ## the main derectory that the website will be published
+baseURL = 'https://7timothyhn.github.io/blog2/' ## the main derectory that the website will be published
 languageCode = 'en-us' ## set the language to us english
 title = 'The Adventures in the Modern Animal Kingdom' ## the main title of the page
 theme = 'ananke' ## sets the theme
