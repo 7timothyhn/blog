@@ -6,11 +6,11 @@ theme = 'ananke' ## sets the theme
 Paginate = 5
 
 [params]
-  commentoEnable = true 
+  commentoEnable = true # enable comments
   
   author = "Timothy Nicholas"
-  enableSearch = "true"
-  darkModeToggle = "true"
+  enableSearch = "true" ## enable search mode
+  darkModeToggle = "true" ## enable darkmode
 
 
 [languages]
