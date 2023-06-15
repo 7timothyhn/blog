@@ -9,8 +9,8 @@ Paginate = 5
   commentoEnable = true 
   
   author = "Timothy Nicholas"
-  favicon = ""
-  site_logo = ""
+  enableSearch = "true"
+  darkModeToggle = "true"
 
 
 [languages]
