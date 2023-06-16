@@ -9,5 +9,5 @@ menu: main # allows the file to appear on the main page
 ---
 
 We would love to hear your ideas or interesting stories from you about your pets going around their animal kingdom.
-## allows a form to be generated using the formspree to generate and handle the form inforamation
+
 {{< form-contact action="https://formspree.io/nicholastimothy@gmail.com"  >}} 
