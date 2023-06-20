@@ -1,7 +1,7 @@
 ---
 title: "The Last Dodo Bird"
 date: 2023-06-06T01:03:50-05:00
-featured_image: ""
+featured_image: "/images/The dodo four.jpg"
 tags: ["dodo bird"]
 description: "A story about a "
 ---

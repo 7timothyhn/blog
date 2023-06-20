@@ -1,7 +1,7 @@
 ---
-title: "Rambo the adventurer"
+title: "Story 2: Rambo the adventurer"
 date: 2023-06-06T01:03:50-05:00
-featured_image: ""
+featured_image: "/images/running dogg.jpg"
 tags: ["dogs"]
 description: ""
 ---

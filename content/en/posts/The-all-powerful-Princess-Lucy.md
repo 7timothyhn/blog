@@ -1,7 +1,7 @@
 ---
-title: "The All-Powerful Princess Lucy "
+title: "Story 3: The All-Powerful Princess Lucy "
 date: 2023-06-06T01:03:50-05:00
-featured_image: ""
+featured_image: "/images/The true princess.jpg"
 tags: ["cats"]
 description: ""
 ---
