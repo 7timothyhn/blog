@@ -7,7 +7,6 @@ menu: main # allows the file to appear on the main page
 
 
 ---
-
-We would love to hear your ideas or interesting stories from you about your pets going around their animal kingdom.
+If you like our stories, please tell us through the form below. If you have interesting stories of your own, feel free to tell also. We would love to hear your ideas or interesting stories from you about your pets going around their animal kingdom.
 
 {{< form-contact action="https://formspree.io/nicholastimothy@gmail.com"  >}} 
