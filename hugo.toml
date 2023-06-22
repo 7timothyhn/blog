@@ -6,16 +6,14 @@ theme = 'ananke' ## sets the theme
 Paginate = 5
 
 [params]
-  commentoEnable = true # enable comments
-  
-  
+ 
   enableSearch = "true" ## enable search mode
   darkModeToggle = "true" ## enable darkmode
 
 
 [languages]
   [languages.en]
-    title = "TAIMA" ## sets the top right title in the tabs
+    title = "Home" ## sets the top right title in the tabs
     contentDir = "content/en" ## sets the main sourse of information 
    
 
